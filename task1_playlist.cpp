@@ -359,7 +359,6 @@ int main()
         cout << "9. Reverse Playlist" << endl;
         cout << "0. Exit" << endl;
         choice = readInt("Enter your choice: ");
-
         switch (choice)
         {
         case 1:
